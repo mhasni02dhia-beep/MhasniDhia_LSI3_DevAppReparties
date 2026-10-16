@@ -1,3 +1,4 @@
+     Activité 1-1 : Première connexion Client/Serveur 
    Étape 1 : Préparation de l’environnement Git 
 version Git
 Capture d'écran  :
@@ -28,3 +29,33 @@ Capture d'écran  :
 
 apres le changement de "localhost" par "mon ip " ne change rien 
 
+    Activité 1-2 : Service de calculatrice
+   Étape 2 : Création du service de multiplication 
+3. 
+x=5
+Capture d'écran en Client :
+![Capture de la version Client_rep_3_5](captures/a1_2_client_rep_parti3.png)
+
+Capture d'écran en Server :
+![Capture de la version Server_rep_3_5](captures/a1_2_ser_rep_parti3.png)
+
+x=-5
+Capture d'écran en Client :
+![Capture de la version Client_rep_3_ng5](captures/a1_2_client_rep_parti3_neg5.png)
+
+Capture d'écran en Server :
+![Capture de la version Server_rep_3_ng5](captures/a1_2_ser_rep_parti3_neg5.png)
+
+x=0
+Capture d'écran en Client :
+![Capture de la version Client_rep_3_0](captures/a1_2_client_rep_parti3_0.png)
+
+Capture d'écran en Server :
+![Capture de la version Server_rep_3_0](captures/a1_2_ser_rep_parti3_0.png)
+
+5.
+Capture d'écran en Client :
+![Capture de la version Client_rep_4](captures/a1_2_client_rep_parti4.png)
+
+Capture d'écran en Server :
+![Capture de la version Server_rep_4](captures/a1_2_ser_rep_parti4.png)
