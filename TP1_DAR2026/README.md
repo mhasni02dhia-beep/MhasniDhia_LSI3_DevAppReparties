@@ -59,3 +59,10 @@ Capture d'écran en Client :
 
 Capture d'écran en Server :
 ![Capture de la version Server_rep_4](captures/a1_2_ser_rep_parti4.png)
+
+     Activité 1-3 : Première connexion Client/Serveur 
+    Étape 1
+![Capture de la version Server_tp1_3](captures/tp1_3_server.png)
+
+    Étape 2
+![Capture de la version Server_tp1_3](captures/tp1_3_client.png)
