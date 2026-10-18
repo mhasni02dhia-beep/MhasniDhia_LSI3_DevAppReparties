@@ -30,26 +30,62 @@ public class Server {
             DataOutputStream out =
                 new DataOutputStream(socket.getOutputStream());
 
-            // Recevoir les entiers envoyés par le client
+            int choix;
             int x;
+            int y;
+            int resultat;
 
             while (true) {
-                x = in.readInt();
 
-                // Si le client saisit 0, arrêter la communication
-                if (x == 0) {
+                // Recevoir le choix de l'opération
+                choix = in.readInt();
+
+                if (choix == 0) {
                     System.out.println("Fin de communication");
                     break;
                 }
 
+                // Recevoir les deux entiers
+                x = in.readInt();
+                y = in.readInt();
+
                 // Calcul côté serveur
-                int resultat = x * 5;
+                switch (choix) {
+
+                    case 1:
+                        resultat = x + y;
+                        break;
+
+                    case 2:
+                        resultat = x - y;
+                        break;
+
+                    case 3:
+                        resultat = x * y;
+                        break;
+
+                    case 4:
+                        if (y == 0) {
+                            System.out.println(
+                                "Erreur : division par zéro"
+                            );
+                            resultat = 0;
+                        } else {
+                            resultat = x / y;
+                        }
+                        break;
+
+                    default:
+                        resultat = 0;
+                        break;
+                }
 
                 // Envoyer le résultat au client
                 out.writeInt(resultat);
                 out.flush();
 
-                System.out.println("Entier reçu : " + x);
+                System.out.println("Premier entier reçu : " + x);
+                System.out.println("Deuxième entier reçu : " + y);
                 System.out.println("Résultat : " + resultat);
             }
 
