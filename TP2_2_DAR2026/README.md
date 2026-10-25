@@ -27,8 +27,8 @@ Capture d'écran en Server :
 
 Capture d'écran en Client :
 
-![Capture de la version tp2_serveur2_0](captures/tp2_server2_0.png)
+![Capture de la version tp2_client2_0](captures/tp2_client2_0.png)
 
 Capture d'écran en Server :
 
-![Capture de la version tp2_client2_0](captures/tp2_client2_0.png)
+![Capture de la version tp2_serveur2_0](captures/tp2_server2_0.png)
