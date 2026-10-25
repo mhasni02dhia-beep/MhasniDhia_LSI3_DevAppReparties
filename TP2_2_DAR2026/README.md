@@ -1,19 +1,43 @@
-<<<<<<< HEAD
-Étape 3 : Création du serveur 
+     Activité 2-2 : Échange de CC entre Client/Serveur via les Sockets TCP 
+ 
+test
 
-J'ai créé la classe Server dans le package serverPackage.
+5
 
-Le serveur ouvre le port 5000 et attend la connexion d'un client.
+Capture d'écran en Client :
 
-Capture d'écran  :
+![Capture de la version tp2_client2_5](captures/tp2_client2_5.png)
 
-Étape 4 : Création du client 
+Capture d'écran en Server :
 
-J'ai créé la classe Client dans le package clientPackage.
+![Capture de la version tp2_serveur2_5](captures/tp2_serveur2_5.png)
 
-Le client se connecte au serveur en utilisant l'adresse localhost et le port 5000.
+5*5
 
-Capture d'écran  :
-=======
-# MhasniDhia_LSI3_DevAppReparties
->>>>>>> d82ce5ce36b0fd9891319b7fd0ba56c2cc4f9673
+Capture d'écran en Client :
+
+![Capture de la version tp2_client2_5_5](captures/tp2_client2_5_5.png)
+
+Capture d'écran en Server :
+
+![Capture de la version tp2_serveur2_5_5](captures/tp2_serveur2_5_5.png)
+
+5**5
+
+Capture d'écran en Client :
+
+![Capture de la version tp2_client2_5__5](captures/tp2_client2_5__5.png)
+
+Capture d'écran en Server :
+
+![Capture de la version tp2_serveur2_5__5](captures/tp2_serveur2_5__5.png)
+
+0
+
+Capture d'écran en Client :
+
+![Capture de la version tp2_serveur2_0](captures/tp2_serveur2_0.png)
+
+Capture d'écran en Server :
+
+![Capture de la version tp2_client2_0](captures/tp2_client2_0.png)
