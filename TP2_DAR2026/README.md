@@ -2,6 +2,9 @@
  
 test
 
+![Capture de la version tp2_client2_5](captures/tp2_client.png)
+
+
 5
 
 Capture d'écran en Client :
