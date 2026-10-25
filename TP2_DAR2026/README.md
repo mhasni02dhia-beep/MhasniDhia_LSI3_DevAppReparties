@@ -4,10 +4,10 @@ test
 
 5
 Capture d'écran en Client :
-![Capture de la version Client_rep_3_ng5](captures/tp2_client2_5.png)
+![Capture de la version Client_rep_3_ng5](captures/tp2_client.png)
 
 Capture d'écran en Server :
-![Capture de la version Server_rep_3_ng5](captures/tp2_client2_5.png)
+![Capture de la version Server_rep_3_ng5](captures/tp2_serveur2_5.png)
 
 5*5
 Capture d'écran en Client :
