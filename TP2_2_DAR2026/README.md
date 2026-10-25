@@ -10,7 +10,7 @@ Capture d'écran en Client :
 
 Capture d'écran en Server :
 
-![Capture de la version tp2_serveur2_5](captures/tp2_serveur2_5.png)
+![Capture de la version tp2_serveur2_5](captures/tp2_server2_5.png)
 
 5*5
 
