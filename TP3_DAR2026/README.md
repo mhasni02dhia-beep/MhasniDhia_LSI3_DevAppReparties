@@ -1,19 +1,18 @@
-<<<<<<< HEAD
-Étape 3 : Création du serveur 
+TP 3 : Serveur Multi-threads - sockets en mode connecté TCP 
 
-J'ai créé la classe Server dans le package serverPackage.
+    Activité 3-1 : Acceptation de plusieurs clients 
+ 
+Les Test
 
-Le serveur ouvre le port 5000 et attend la connexion d'un client.
+Test avec clients Java
 
-Capture d'écran  :
+Capture d'écran en Client Java :
 
-Étape 4 : Création du client 
+![Capture de la version tp2_client2_5](captures/1.png)
 
-J'ai créé la classe Client dans le package clientPackage.
+Test avec clients Telnet
 
-Le client se connecte au serveur en utilisant l'adresse localhost et le port 5000.
+Capture d'écran en Client Telnet :
 
-Capture d'écran  :
-=======
-# MhasniDhia_LSI3_DevAppReparties
->>>>>>> d82ce5ce36b0fd9891319b7fd0ba56c2cc4f9673
+![Capture de la version tp2_client2_5](captures/tp2_client2_5.png)
+
