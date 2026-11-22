@@ -13,11 +13,21 @@ Test avec clients Java
 
 Capture d'écran en Client Java :
 
-![Capture de la version tp2_client2_5](captures/1.png)
+![Capture de la version tp2_client2_5](captures/2.png)
+
+Capture d'écran cote serveur :
+
+![Capture de la version tp2_client2_5](captures/3.png)
 
 Test avec clients Telnet
 
 Capture d'écran en Client Telnet :
 
-![Capture de la version tp2_client2_5](captures/tp2_client2_5.png)
+![Capture de la version tp2_client2_5](captures/4.png)
+
+![Capture de la version tp2_client2_5](captures/5.png)
+
+Capture d'écran cote serveur :
+
+![Capture de la version tp2_client2_5](captures/6.png)
 
