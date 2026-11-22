@@ -4,6 +4,11 @@ TP 3 : Serveur Multi-threads - sockets en mode connecté TCP
  
 Les Test
 
+Démarrage du serveur
+Capture d'écran Démarrage du serveur :
+
+![Capture de la version tp2_client2_5](captures/1.png)
+
 Test avec clients Java
 
 Capture d'écran en Client Java :
